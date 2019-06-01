@@ -5,11 +5,11 @@
 }
 
 body {
-  background: #ccc;
+  background: rgb(166, 111, 166) ;
 }
 
 nav {
-  background: #8e44ad;
+  background: rgb(111, 37, 111);
   
 }
 
@@ -48,6 +48,9 @@ img:hover {
 .jumbotron {
   margin-top: 40px;
   text-align: center;
+  background:#f1f2f6;
+  color: #2f3640;
+  
 }
 
 .far {
